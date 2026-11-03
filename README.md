@@ -187,6 +187,7 @@ Review quality depends on the AI model, code complexity, and the amount of conte
 
 - **Setup guide:** [GitHub Action code review](https://code-critic.com/github-action-code-review)
 - **Product docs:** [GitHub code review](https://code-critic.com/github-code-review)
+- **How we built it:** [How I built an AI code review GitHub Action (dev.to)](https://dev.to/furycow/how-i-built-an-ai-code-review-github-action-3184)
 - **Bug reports & feature requests:** [GitHub Issues](https://github.com/CodeCritic-Reviews/review-action/issues)
 - **Email:** support@code-critic.com
 - **Security vulnerabilities:** See [SECURITY.md](SECURITY.md)
